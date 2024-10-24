@@ -1,0 +1,244 @@
+{
+  "heading": "Action Verbs and Adverbs",
+  "topics": [
+    {
+      "heading": "Identifying Action Verbs and Adverbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word in \"He reads slowly\" is the action verb?",
+          "options": [
+            { "text": "He" },
+            { "text": "Reads" },
+            { "text": "Slowly" }
+          ],
+          "answer": 1,
+          "explanation": "\"Reads\" is the action verb. It tells us what he is doing - the action he's performing."
+        },
+        {
+          "questionNo": 2,
+          "question": "In \"The girl sings beautifully,\" which word describes how the action is done?",
+          "options": [
+            { "text": "The" },
+            { "text": "Girl" },
+            { "text": "Sings" },
+            { "text": "Beautifully" }
+          ],
+          "answer": 3,
+          "explanation": "\"Beautifully\" is the adverb that describes how the girl sings. It gives us more information about the action."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word in \"They play quietly\" is the adverb?",
+          "options": [
+            { "text": "They" },
+            { "text": "Play" },
+            { "text": "Quietly" }
+          ],
+          "answer": 2,
+          "explanation": "\"Quietly\" is the adverb in this sentence. It tells us how they play, describing the manner of the action."
+        },
+        {
+          "questionNo": 4,
+          "question": "In \"The cat walks silently,\" which word is the adverb?",
+          "options": [
+            { "text": "The" },
+            { "text": "Cat" },
+            { "text": "Walks" },
+            { "text": "Silently" }
+          ],
+          "answer": 3,
+          "explanation": "\"Silently\" is the adverb. It tells us how the cat walks, describing the action in more detail."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word in \"He jumps high\" is the action verb?",
+          "options": [
+            { "text": "He" },
+            { "text": "Jumps" },
+            { "text": "High" }
+          ],
+          "answer": 1,
+          "explanation": "\"Jumps\" is the action verb. It tells us what he is doing - the action he's performing."
+        },
+        {
+          "questionNo": 6,
+          "question": "In \"The bird sings sweetly,\" which word describes how the action is done?",
+          "options": [
+            { "text": "The" },
+            { "text": "Bird" },
+            { "text": "Sings" },
+            { "text": "Sweetly" }
+          ],
+          "answer": 3,
+          "explanation": "\"Sweetly\" is the adverb that describes how the bird sings. It gives us more information about the action."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word in \"She whispers softly\" is the adverb?",
+          "options": [
+            { "text": "She" },
+            { "text": "Whispers" },
+            { "text": "Softly" }
+          ],
+          "answer": 2,
+          "explanation": "\"Softly\" is the adverb in this sentence. It tells us how she whispers, describing the manner of the action."
+        },
+        {
+          "questionNo": 8,
+          "question": "In \"The boy runs quickly,\" which word is the action verb?",
+          "options": [
+            { "text": "The" },
+            { "text": "Boy" },
+            { "text": "Runs" },
+            { "text": "Quickly" }
+          ],
+          "answer": 2,
+          "explanation": "\"Runs\" is the action verb. It tells us what the boy is doing - the action he's performing."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word in \"They dance happily\" tells us how the action is done?",
+          "options": [
+            { "text": "Happily" },
+            { "text": "Dance" },
+            { "text": "They" }
+          ],
+          "answer": 0,
+          "explanation": "\"Happily\" is the adverb that tells us how they dance. It describes the manner of the action."
+        },
+        {
+          "questionNo": 10,
+          "question": "In \"The snow falls gently,\" which word is the adverb?",
+          "options": [
+            { "text": "The" },
+            { "text": "Gently" },
+            { "text": "Falls" },
+            { "text": "Snow" }
+          ],
+          "answer": 1,
+          "explanation": "\"Gently\" is the adverb. It tells us how the snow falls, describing the action in more detail."
+        },
+        {
+          "questionNo": 11,
+          "question": "In \"The girl skips happily,\" which word describes how the action is done?",
+          "options": [
+            { "text": "The" },
+            { "text": "Girl" },
+            { "text": "Skips" },
+            { "text": "Happily" }
+          ],
+          "answer": 3,
+          "explanation": "\"Happily\" is the adverb that describes how the girl skips. It gives us more information about the action."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word in \"They work hard\" is the adverb?",
+          "options": [
+            { "text": "They" },
+            { "text": "Work" },
+            { "text": "Hard" }
+          ],
+          "answer": 2,
+          "explanation": "\"Hard\" is the adverb in this sentence. It tells us how they work, describing the manner of the action."
+        },
+        {
+          "questionNo": 13,
+          "question": "In \"The leaves fall slowly,\" which word is the action verb?",
+          "options": [
+            { "text": "The" },
+            { "text": "Leaves" },
+            { "text": "Fall" },
+            { "text": "Slowly" }
+          ],
+          "answer": 2,
+          "explanation": "\"Fall\" is the action verb. It tells us what the leaves are doing - the action they're performing."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word in \"The butterfly flutters gently\" is the adverb?",
+          "options": [
+            { "text": "The" },
+            { "text": "Butterfly" },
+            { "text": "Flutters" },
+            { "text": "Gently" }
+          ],
+          "answer": 3,
+          "explanation": "\"Gently\" is the adverb in this sentence. It tells us how the butterfly flutters, describing the action in a more detailed way."
+        },
+        {
+          "questionNo": 15,
+          "question": "In \"The clock ticks loudly at night,\" which word is the adverb?",
+          "options": [
+            { "text": "Clock" },
+            { "text": "Ticks" },
+            { "text": "Loudly" },
+            { "text": "Night" }
+          ],
+          "answer": 2,
+          "explanation": "\"Loudly\" is the adverb here. It describes how the clock ticks, giving us more information about the action."
+        },
+        {
+          "questionNo": 16,
+          "question": "Choose the adverb in \"The kitten purrs softly\":",
+          "options": [
+            { "text": "The" },
+            { "text": "Kitten" },
+            { "text": "Purrs" },
+            { "text": "Softly" }
+          ],
+          "answer": 3,
+          "explanation": "\"Softly\" is the adverb in this sentence. It tells us how the kitten purrs, describing the manner of the action."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word tells us how in \"She hugs her teddy bear tightly\"?",
+          "options": [
+            { "text": "Tightly" },
+            { "text": "Hugs" },
+            { "text": "Teddy bear" },
+            { "text": "She" }
+          ],
+          "answer": 0,
+          "explanation": "\"Tightly\" is the adverb that describes how she hugs her teddy bear. It gives us more information about the action of hugging."
+        },
+        {
+          "questionNo": 18,
+          "question": "In \"The snail moves slowly across the leaf,\" which word is the adverb?",
+          "options": [
+            { "text": "Snail" },
+            { "text": "Moves" },
+            { "text": "Slowly" },
+            { "text": "Leaf" }
+          ],
+          "answer": 2,
+          "explanation": "\"Slowly\" is the adverb in this sentence. It tells us how the snail moves, describing the action in more detail."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the adverb in \"The ballerina dances gracefully\":",
+          "options": [
+            { "text": "The" },
+            { "text": "Ballerina" },
+            { "text": "Dances" },
+            { "text": "Gracefully" }
+          ],
+          "answer": 3,
+          "explanation": "\"Gracefully\" is the adverb here. It describes how the ballerina dances, giving us more information about the action."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the adverb in \"The mouse squeaks quietly\":",
+          "options": [
+            { "text": "The" },
+            { "text": "Mouse" },
+            { "text": "Squeaks" },
+            { "text": "Quietly" }
+          ],
+          "answer": 3,
+          "explanation": "\"Quietly\" is the adverb here. It describes how the mouse squeaks, giving us more information about the action."
+        }
+      ]
+    }
+  ]
+}
